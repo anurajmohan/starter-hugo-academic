@@ -23,7 +23,7 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Complex and intelligent systems (SCIE, IF 4.9), Springer *
+publication: In *Complex and intelligent systems (SCIE, IF 4.9), Springer*
 publication_short: In  *Complex and intelligent systems (SCIE, IF 4.9), Springer*
 
 abstract: Graph convolutional network (GCN) has made remarkable progress in learning good representations from graph-structured data. The layer-wise propagation rule of conventional GCN is designed in such a way that the feature aggregation at each node depends on the features of the one-hop neighbouring nodes. Adding an attention layer over the GCN can allow the network to provide different importance within various one-hop neighbours. These methods can capture the properties of static network, but is not well suited to capture the temporal patterns in time-varying networks. In this work, we propose a temporal graph attention network (TempGAN), where the aim is to learn representations from continuous-time temporal network by preserving the temporal proximity between nodes of the network. First, we perform a temporal walk over the network to generate a positive pointwise mutual information matrix (PPMI) which denote the temporal correlation between the nodes. Furthermore, we design a TempGAN architecture which uses both adjacency and PPMI information to generate node embeddings from temporal network. Finally, we conduct link prediction experiments by designing a TempGAN autoencoder to evaluate the quality of the embedding generated, and the results are compared with other state-of-the-art methods.
