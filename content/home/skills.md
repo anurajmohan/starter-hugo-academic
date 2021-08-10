@@ -29,11 +29,11 @@ feature:
   icon_pack: custom
   name: Pytorch
 
-- icon: NetworkX
+- icon: networkx
   icon_pack: custom
   name: Networkx
 
-- icon: Spark
+- icon: spark
   icon_pack: custom
   name: Spark
 
