@@ -1,11 +1,11 @@
 ---
-title: Reviewer for IEEE Transactions on Computational Social Systems
+title: Reviewer for International Journals
 abstract: |
   IEEE Transactions on Computational Social Systems
   Journal of ambient intelligence and humanized computing, Springer
   New Generation Computing, Springer
 location: Journal
-date: 2018-12-01T00:00:00Z
+date: 2018-12-01T00:00:00.000Z
 date_end: 2020-08-01
 all_day: true
 event: Journal
