@@ -26,8 +26,9 @@ organizations:
     url: https://www.nssce.ac.in/
 education:
   courses:
-    - course: PhD (Thesis Submitted) in Machine Learning
-      institution: Cochin University of Science and Technology, Cochin
+    - course: PhD (Thesis Submitted) in Network Representation Learning
+      institution: Department of Computer Applications, Cochin University of Science
+        and Technology, Cochin
       year: 2021
     - course: ME in Computer Science and Engineering
       institution: Anna University, Chennai
