@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/anuraj-mohan-33819a230
 organizations:
   - name: NSS College of Engineering Palakkad
     url: https://www.nssce.ac.in/
