@@ -1,17 +1,9 @@
 ---
 title: Reviewer for New Generation Computing, Springer
-abstract: NA
-location: NA
-date: 2022-01-11T10:02:19.638Z
-date_end: 2022-01-12T18:30:00.000Z
-all_day: false
-event: NA
-event_url: NA
-publishDate: 2022-01-26T10:02:19.666Z
-draft: false
+date: 2021-12-12T00:00:00.000Z
+date_end: 2022-1-11
+all_day: true
+publishDate: 2021-12-30T17:55:17.980Z
 featured: false
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
+authors: []
 ---
