@@ -26,7 +26,7 @@ organizations:
     url: https://www.nssce.ac.in/
 education:
   courses:
-    - course: PhD (Thesis Submitted) in Network Representation Learning
+    - course: Ph.D. in Network Representation Learning
       institution: Department of Computer Applications, Cochin University of Science
         and Technology, Cochin
       year: 2021
