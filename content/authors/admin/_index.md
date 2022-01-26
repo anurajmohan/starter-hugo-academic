@@ -15,9 +15,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=PwHP6YoAAAAJ&hl=en
-  - icon: scopus
-    icon_pack: custom
-    link: www.linkedin.com/in/anuraj-mohan-33819a230
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/anuraj-mohan-33819a230
