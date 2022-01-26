@@ -1,5 +1,5 @@
 ---
-title: Journal of Ambient Intelligence and Humanized Computing, Springer
+title: Reviewer for New Generation Computing, Springer
 date: 2021-12-01
 date_end: 2022-01-01
 all_day: true
