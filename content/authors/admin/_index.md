@@ -17,6 +17,9 @@ social:
     link: https://scholar.google.com/citations?user=PwHP6YoAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
+  - icon: linkedin
+    icon_pack: fab
+    link:https://linkedin.com/in/anuraj-mohan-33819a230
     link:https://linkedin.com/in/anuraj-mohan-33819a230
 organizations:
   - name: NSS College of Engineering Palakkad
