@@ -29,7 +29,7 @@ education:
     - course: Ph.D. in Network Representation Learning
       institution: Department of Computer Applications, Cochin University of Science
         and Technology, Cochin
-      year: Jan 2022
+      year: January 2022
     - course: ME in Computer Science and Engineering
       institution: Anna University, Chennai
       year: May 2015
