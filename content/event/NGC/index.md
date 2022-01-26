@@ -1,6 +1,6 @@
 ---
 title: Reviewer for New Generation Computing, Springer
-date: 2021-12-01T00:00:00.000Z
+date: 2021-12-01
 date_end: 2022-01-01
 all_day: true
 publishDate: 2021-12-30T17:55:17.980Z
