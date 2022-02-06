@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: "2020-10-06T00:00:00Z"
-doi: ""
+doi: "10.1109/ICCCS49678.2020.9276860"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-06T00:00:00Z"
