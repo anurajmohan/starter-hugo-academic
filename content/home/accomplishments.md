@@ -35,47 +35,47 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-01"
+  date_start: "2021-06-01"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Database Management Systems
   url: "" 
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-01"
+  date_start: "2021-06-01"
  # description: ""
-  organization: KTU UG Class
+  organization: KTU PG Class
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Big Data Essentials
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
   date_start: "2022-01-01"
  # description: ""
-  organization: KTU UG Class
+  organization: KTU PG Class
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Advanced Data Stuctures
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
   date_start: "2022-01-01"
  # description: ""
-  organization: KTU UG Class
+  organization: KTU PG Lab
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Advanced Data Stuctures Lab
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-01"
+  date_start: "2022-06-01"
  # description: ""
-  organization: KTU UG Class
+  organization: KTU PG Lab
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Data Mining & Analytics Lab
   url: ""
 
 design:
