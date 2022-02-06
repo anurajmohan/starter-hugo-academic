@@ -8,10 +8,10 @@ summary: A poster based on the research project conducted at NSSCE
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-06-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-06-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
