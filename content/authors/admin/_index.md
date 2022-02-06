@@ -1,8 +1,8 @@
 ---
 title: Anuraj Mohan
 role: Assistant Professor, Department of Computer Science & Engineering
-bio: My research interests include geometric deep learning, network
-  representation learning and social network mining.
+#bio: My research interests include geometric deep learning, network
+#  representation learning and social network mining.
 interests:
   - Geometric Deep Learning
   - Social Network Mining
