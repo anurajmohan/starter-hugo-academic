@@ -19,12 +19,12 @@ main:
   - name: Posters
     url: '#posts'
     weight: 60
-  - name: Activities
+  - name: Recent Activities
     url: '#talks'
     weight: 80
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 132
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
