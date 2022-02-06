@@ -19,9 +19,9 @@ main:
   - name: Posters
     url: '#posts'
     weight: 60
-  - name: Recent Activities
+  - name: Activities
     url: '#talks'
-    weight: 80
+    weight: 65
   - name: Contact
     url: '#contact'
     weight: 132
