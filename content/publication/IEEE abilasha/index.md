@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 
 date: "2016-09-01T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/document/7854055"
+doi: "10.1109/ICNGIS.2016.7854055"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-09-01T00:00:00Z"
