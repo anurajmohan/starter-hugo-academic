@@ -27,7 +27,7 @@ education:
       institution: Department of Computer Applications, Cochin University of Science
         and Technology, Cochin
       year: January 2022
-    - course: ME in Computer Science and Engineering
+    - course: M.E in Computer Science and Engineering
       institution: Anna University, Chennai
       year: May 2015
     - course: B.Tech in Computer Science and Engineering
@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Anuraj Mohan  serves as an Assistant Professor in Department of Computer Science & Engineering  at NSS College of Engineering, Palakkad. He has more than 15 years of experience in teaching with prolific interest on research. He has published various papers in SCI journals of reputed publishers. His broad areas of interest include machine learning, text and social network mining, and big data analytics.
+Anuraj Mohan  serves as an Assistant Professor in Department of Computer Science & Engineering  at NSS College of Engineering, Palakkad. He has more than 16 years of experience in teaching with prolific interest on research. He has published various articles in science citation indexed journals of reputed publishers. His broad areas of interest include machine learning, text and social network mining, and big data analytics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "biodata.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
