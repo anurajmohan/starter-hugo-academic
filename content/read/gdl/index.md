@@ -7,10 +7,10 @@ summary: A Collection of good reads on Geometric Deep Learning
 projects: []
 
 # Date published
-date: "2021-08-09T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 
 # Date updated
-lastmod: "2021-08-09T00:00:00Z"
+lastmod: "2022-02-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
