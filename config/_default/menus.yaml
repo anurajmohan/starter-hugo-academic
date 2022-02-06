@@ -21,7 +21,7 @@ main:
     weight: 60
   - name: Activities
     url: '#talks'
-    weight: 65
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 132

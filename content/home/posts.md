@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 85
 
 title: Posters
 subtitle:
