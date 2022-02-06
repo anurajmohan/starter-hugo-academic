@@ -1,6 +1,6 @@
 ---
 title: Anuraj Mohan
-role: Assistant Professor, Department of Computer Science & Engineering
+role: Assistant Professor, Department of Computer Science & Engineering, NSS College of Engineering, Palakkad
 #bio: My research interests include geometric deep learning, network
 #  representation learning and social network mining.
 interests:
