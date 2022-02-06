@@ -41,8 +41,8 @@ Dr. Anuraj Mohan  serves as an Assistant Professor in Department of Computer Sci
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "biodata.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-Web of Science ResearcherID: ABB-6154-2021
+Web of Science Researcher ID: ABB-6154-2021
 
-Scopus Id: 57193274782
+Scopus ID: 57193274782
 
 
