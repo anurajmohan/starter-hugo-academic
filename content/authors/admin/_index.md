@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/anuraj-mohan-33819a230
 organizations:
-  - name: NSS College of Engineering Palakkad
+  - name: NSS College of Engineering Palakkad, Kerala, India
     url: https://www.nssce.ac.in/
 education:
   courses:
