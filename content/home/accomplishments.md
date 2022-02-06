@@ -32,23 +32,50 @@ item:
  # organization_url: https://www.coursera.org
   title: Python for Machine Learning
   url: ""
--
- #certificate_url: https://www.edx.org
+- 
+#certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2021-01-01"
-#  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
- # organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2022-01-01"
+ # description: ""
+  organization: KTU UG Class
+ # organization_url: https://www.coursera.org
+  title: Python for Machine Learning
+  url: "" 
+- 
+#certificate_url: https://www.coursera.org
+ # date_end: ""
+  date_start: "2022-01-01"
+ # description: ""
+  organization: KTU UG Class
+ # organization_url: https://www.coursera.org
+  title: Python for Machine Learning
   url: ""
 - 
-#certificate_url: https://www.datacamp.com
- # date_end: "2020-12-21"
-  date_start: "2020-07-01"
+#certificate_url: https://www.coursera.org
+ # date_end: ""
+  date_start: "2022-01-01"
  # description: ""
-  organization: DataCamp
-  # organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: KTU UG Class
+ # organization_url: https://www.coursera.org
+  title: Python for Machine Learning
+  url: ""
+- 
+#certificate_url: https://www.coursera.org
+ # date_end: ""
+  date_start: "2022-01-01"
+ # description: ""
+  organization: KTU UG Class
+ # organization_url: https://www.coursera.org
+  title: Python for Machine Learning
+  url: ""
+- 
+#certificate_url: https://www.coursera.org
+ # date_end: ""
+  date_start: "2022-01-01"
+ # description: ""
+  organization: KTU UG Class
+ # organization_url: https://www.coursera.org
+  title: Python for Machine Learning
   url: ""
 
 design:
