@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: "2016-09-01T00:00:00Z"
-doi: ""
+doi: "https://ieeexplore.ieee.org/document/7854058"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-09-01T00:00:00Z"
