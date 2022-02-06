@@ -26,16 +26,16 @@ item:
 -
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-01-01"
+#  date_start: "2021-01-01"
 #  description: "UG Class"
   organization: KTU UG Class
 #  organization_url: https://www.coursera.org
-  title: Theory of Computation
+  title: Python for Machine Learning
   url: ""
 - 
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-06-01"
+#  date_start: "2021-06-01"
 #  description: "UG Class"
   organization: KTU UG Class
 #  organization_url: https://www.coursera.org
@@ -44,7 +44,7 @@ item:
 - 
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-06-01"
+#  date_start: "2021-06-01"
 #  description: "UG Class"
   organization: KTU PG Class
 #  organization_url: https://www.coursera.org
@@ -53,7 +53,7 @@ item:
 - 
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-01-01"
+ # date_start: "2021-01-01"
 #  description: "UG Class"
   organization: KTU PG Class
 #  organization_url: https://www.coursera.org
@@ -62,7 +62,7 @@ item:
 - 
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-01-01"
+#  date_start: "2021-01-01"
 #  description: "UG Class"
   organization: KTU PG Class
 #  organization_url: https://www.coursera.org
@@ -71,11 +71,11 @@ item:
 - 
 #  certificate_url: https://www.coursera.org
 # date_end: ""
-  date_start: "2021-06-01"
+#  date_start: "2021-06-01"
 #  description: "UG Class"
   organization: KTU PG Class
 #  organization_url: https://www.coursera.org
-  title: Data Analytics Lab
+  title: Data Mining & Analytics Lab
   url: ""
 
 design:
