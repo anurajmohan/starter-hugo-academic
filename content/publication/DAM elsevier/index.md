@@ -22,8 +22,8 @@ publishDate: "2022-02-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Parallel and Distributed Computing(SCI, IF 3.7), Elsevier*
-publication_short: In  *Journal of Parallel and Distributed Computing (SCI, IF 3.7), Elsevier*
+publication: In *Discrete Applied Mathematics(SCI, IF 1.1), Elsevier (Accepted for Publication)*
+publication_short: In  *Discrete Applied Mathematics (SCI, IF 1.1), Elsevier (Accepted for Publication)*
 
 abstract: Link prediction has become an important task, especially with the rise of large-scale, complex and dynamic networks. The emerging research area of network dynamics and evolution is directly related to predicting new interactions between objects, a possibility in the near future. Recent studies show that the precision of link prediction can be improved to a great extent by including community information in the prediction methods. As traditional community-based link prediction algorithms can run only on stand-alone computers, they are not well suited for most of the large networks. Graph parallelization can be one solution to such problems. Bulk Synchronous Parallel (BSP) programming model is a recently emerged framework for parallelizing graph algorithms. In this paper, we propose a hybrid similarity measure for link prediction in real world networks. We also propose a scalable method for community structure-based link prediction on large networks. This method uses a parallel label propagation algorithm for community detection and a parallel community information-based Adamic–Adar measure for link prediction. We have developed these algorithms using Bulk Synchronous Parallel programming model and tested them with large networks of various domains.
 # Summary. An optional shortened abstract.
