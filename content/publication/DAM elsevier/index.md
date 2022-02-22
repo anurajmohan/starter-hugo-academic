@@ -22,13 +22,12 @@ publishDate: "2022-02-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Discrete Applied Mathematics(SCI, IF 1.1), Elsevier (Accepted for Publication)*
-publication_short: In  *Discrete Applied Mathematics (SCI, IF 1.1), Elsevier (Accepted for Publication)*
-abstract: hello
-summary: In this paper, we propose TNE-DNN, an efficient algorithm
-to construct time-aware embeddings from temporal networks. We also provide
-a general framework for associating temporal information into deep
-learning based network embedding method.
+publication: In *Journal of Parallel and Distributed Computing(SCI, IF 3.7), Elsevier*
+publication_short: In  *Journal of Parallel and Distributed Computing (SCI, IF 3.7), Elsevier*
+
+abstract: Link prediction has become an important task, especially with the rise of large-scale, complex and dynamic networks. The emerging research area of network dynamics and evolution is directly related to predicting new interactions between objects, a possibility in the near future. Recent studies show that the precision of link prediction can be improved to a great extent by including community information in the prediction methods. As traditional community-based link prediction algorithms can run only on stand-alone computers, they are not well suited for most of the large networks. Graph parallelization can be one solution to such problems. Bulk Synchronous Parallel (BSP) programming model is a recently emerged framework for parallelizing graph algorithms. In this paper, we propose a hybrid similarity measure for link prediction in real world networks. We also propose a scalable method for community structure-based link prediction on large networks. This method uses a parallel label propagation algorithm for community detection and a parallel community information-based Adamic–Adar measure for link prediction. We have developed these algorithms using Bulk Synchronous Parallel programming model and tested them with large networks of various domains.
+# Summary. An optional shortened abstract.
+summary: In this paper, we propose a hybrid similarity measure for link prediction in real world networks. We also propose a scalable method for community structure-based link prediction on large networks.
 
 tags: []
 
@@ -40,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0743731517301600'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -48,7 +47,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-
 ---
 
