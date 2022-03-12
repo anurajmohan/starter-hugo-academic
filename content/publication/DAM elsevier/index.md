@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Discrete Applied Mathematics(SCI, IF 1.1), Elsevier (Accepted for Publication)*
-publication_short: In  *Discrete Applied Mathematics (SCI, IF 1.1), Elsevier (Accepted for Publication)*
+publication_short: In  *Discrete Applied Mathematics (SCI, IF 1.1), Elsevier.*
 
 summary: In this paper, we propose TNE-DNN, an efficient algorithm to construct time-aware embeddings from temporal networks. We also provide a general framework for associating temporal information into a deep learning based network embedding method.
 
@@ -37,7 +37,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0166218X22000336'
 url_code: ''
 url_dataset: ''
 url_poster: ''
