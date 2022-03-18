@@ -25,8 +25,8 @@ publishDate: "2022-02-15T00:00:00Z"
 publication_types: ["2"]
 
 #Publication name and optional abbreviated publication name.
-publication: In *International Journal of Business Information Systems(Scopus), Inderscience*
-publication_short: In *International Journal of Business Information Systems(Scopus), Inderscience*
+publication: In *International Journal of Business Information Systems (Scopus), Inderscience*
+publication_short: In *International Journal of Business Information Systems (Scopus), Inderscience*
 
 tags: []
 
