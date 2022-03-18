@@ -6,7 +6,7 @@ title: "Transforming supply chain network and logistics using blockchain - a Sur
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- V. Sreerakhi
+- Sreerakhi V
 - Balagopal N
 - Anuraj Mohan
 
@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 #Publication name and optional abbreviated publication name.
 publication: In *International Journal of Business Information Systems(Scopus), Inderscience*
-publication_short: In *International Journal of Business Information Systems(Scopus),Inderscience*
+publication_short: In *International Journal of Business Information Systems(Scopus), Inderscience*
 
 tags: []
 
