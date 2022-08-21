@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Teaching
-        * Research
-        * All other academic activities
+        * Teaching - Both UG and PG
+        * Research - Approved Research Co-supervisor APJAKTU
+        * All Other Academic Activities
 design:
   columns: '2'
 ---
