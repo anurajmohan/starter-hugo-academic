@@ -29,7 +29,7 @@ url_pdf: '/post/bitcoin/sar.pdf'
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: "3"
+  focal_point: "top"
   placement: 2
   preview_only: false
 
