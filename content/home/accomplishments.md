@@ -26,16 +26,16 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-01"
+  date_start: "2022-10-15"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
-  title: Python for Machine Learning
+  title: Concepts in Machine Learning
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2021-06-01"
+  date_start: "2021-04-01"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
@@ -44,7 +44,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2021-06-05"
+  date_start: "2021-04-05"
  # description: ""
   organization: KTU PG Class
  # organization_url: https://www.coursera.org
@@ -53,16 +53,16 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-05"
+  date_start: "2022-10-01"
  # description: ""
   organization: KTU PG Class
  # organization_url: https://www.coursera.org
-  title: Advanced Data Stuctures
+  title: Advanced Machine Learning
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-01-01"
+  date_start: "2022-10-01"
  # description: ""
   organization: KTU PG Lab
  # organization_url: https://www.coursera.org
@@ -71,7 +71,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2021-06-01"
+  date_start: "2022-04-01"
  # description: ""
   organization: KTU PG Lab
  # organization_url: https://www.coursera.org
