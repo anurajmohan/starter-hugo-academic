@@ -1,5 +1,6 @@
 ---
-title: Building a Product Recommender System Using Knowledge Graph Embedding and Graph
+title: Building a Product Recommender System Using
+Knowledge Graph Embedding and Graph
 Completion.
 
 # Summary for listings and search engines
@@ -25,12 +26,11 @@ links:
 url_pdf: '/post/kge/kge.pdf'
 
 
-
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: "top"
   placement: 2
   preview_only: false
 
