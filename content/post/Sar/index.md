@@ -30,7 +30,7 @@ url_pdf: '/post/bitcoin/sar.pdf'
 image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  placement: 1
+  placement: 2
   preview_only: false
 
 authors:
