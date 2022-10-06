@@ -8,10 +8,10 @@ summary: A poster based on the research project conducted at NSSCE
 projects: []
 
 # Date published
-date: "2021-06-13T00:00:00Z"
+date: "2022-09-13T00:00:00Z"
 
 # Date updated
-lastmod: "2021-09-13T00:00:00Z"
+lastmod: "2022-09-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,7 +30,7 @@ url_pdf: '/post/bitcoin/sar.pdf'
 image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
