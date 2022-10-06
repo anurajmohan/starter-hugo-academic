@@ -22,7 +22,7 @@ featured: false
 
 links:
 
-url_pdf: '/post/kde/kde.pdf'
+url_pdf: '/post/kge/kge.pdf'
 
 
 
