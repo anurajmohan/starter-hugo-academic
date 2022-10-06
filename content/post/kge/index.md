@@ -1,8 +1,5 @@
 ---
-title: Building a Product Recommender System Using
-Knowledge Graph Embedding and Graph
-Completion.
-
+title: Building a Product Recommender System Using Knowledge Graph Embedding and Graph Completion
 # Summary for listings and search engines
 summary: A poster based on the research project conducted at NSSCE
 
