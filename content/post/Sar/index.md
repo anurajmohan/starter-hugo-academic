@@ -21,7 +21,7 @@ featured: false
 
 links:
 
-url_pdf: '/post/bitcoin/sar.pdf'
+url_pdf: '/post/Sar/sar.pdf'
 
 
 
