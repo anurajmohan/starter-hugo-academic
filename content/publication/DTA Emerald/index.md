@@ -42,7 +42,7 @@ links:
 url_pdf: 'https://doi.org/10.1108/DTA-06-2021-0167'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '/post/bitcoin/'
 url_project: ''
 url_slides: ''
 url_source: ''
