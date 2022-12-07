@@ -1,6 +1,5 @@
 ---
-title: "Improving anti-money laundering in bitcoin using evolving graph convolutions and deep neural decision forest
-"
+title: "Improving anti-money laundering in bitcoin using evolving graph convolutions and deep neural decision forest"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +25,7 @@ publishDate: "2022-11-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * Data Technologies and Applications (SCI, IF 1.6), Emerald*
+publication: In *Data Technologies and Applications (SCI, IF 1.6), Emerald*
 publication_short: In *Data Technologies and Applications (SCI, IF 1.6), Emerald*
 
 abstract: 
@@ -43,7 +42,7 @@ links:
 url_pdf: 'https://doi.org/10.1108/DTA-06-2021-0167'
 url_code: ''
 url_dataset: ''
-url_poster: '/post/ne/'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
