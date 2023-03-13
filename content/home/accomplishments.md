@@ -26,7 +26,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-10-15"
+  date_start: "2022-09-15"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
@@ -35,7 +35,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-04-01"
+  date_start: "2023-02-01"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
@@ -44,16 +44,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-04-05"
- # description: ""
-  organization: KTU PG Class
- # organization_url: https://www.coursera.org
-  title: Big Data Essentials
-  url: ""
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  date_start: "2022-10-01"
+  date_start: "2022-09-05"
  # description: ""
   organization: KTU PG Class
  # organization_url: https://www.coursera.org
@@ -62,20 +53,29 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-10-01"
+  date_start: "2023-03-01"
  # description: ""
-  organization: KTU PG Lab
+  organization: KTU PG Class
  # organization_url: https://www.coursera.org
-  title: Advanced Data Stuctures Lab
+  title: Advanced Data Structures
   url: ""
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2022-04-01"
+  date_start: "2022-09-01"
  # description: ""
   organization: KTU PG Lab
  # organization_url: https://www.coursera.org
-  title: Data Mining & Analytics Lab
+  title: Machine Learning Lab
+  url: ""
+- 
+#certificate_url: https://www.coursera.org
+ # date_end: ""
+  date_start: "2023-03-01"
+ # description: ""
+  organization: KTU PG Lab
+ # organization_url: https://www.coursera.org
+  title: Bigdata Analytics Lab
   url: ""
 
 design:
