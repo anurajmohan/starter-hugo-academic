@@ -34,13 +34,13 @@ publication_short: In *Procedia Computer Science (Scopus), Elsevier*
 
 tags: []
 
-
+featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S1877050922024991?token=39C28D9DFD8158D5DF1C0227ABD807F34D0D68000ECE72425D9ED6E5F0C8611AE7D0C3FF31ED439CE4E9BF5B2A8F87B8&originRegion=eu-west-1&originCreation=20230313035930'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
