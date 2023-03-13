@@ -1,6 +1,5 @@
 ---
-title: Invited Talk on 'Deep Learning on Graphs' for Faculty Development Programme on Artificial Intelligence and Data Science at Royal College of Engineering and Technology, Thrissur
-
+title: Invited Talk on 'Deep Learning on Graphs' for Faculty Development Programme on Artificial Intelligence and Data Science
 
 event: FDP
 
