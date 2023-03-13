@@ -1,19 +1,19 @@
 ---
-title: Invited Talk on 'Machine Learning Algorithms: Theory and Practice' for Faculty Development Programme on Machine Learning and Cybersecurity
+title: Invited Talk on 'Deep Learning on Graphs' for Faculty Development Programme on Artificial Intelligence and Data Science
 
 event: FDP
 
 
-location: KMCT college of Engineering
+location: Royal College of Engineering and Technology
 address:
 
-  city: Calicut
+  city: Thrissur
   region: Kerala
   country: India
  
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-02-02T13:00:00Z"
+date: "2023-01-20T13:00:00Z"
 #date_end: "2018--20T15:00:00Z"
 all_day: false
 
