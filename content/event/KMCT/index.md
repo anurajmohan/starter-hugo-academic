@@ -1,5 +1,5 @@
 ---
-title: Invited Talk on 'Machine Learning Algorithms: Theory and Practice' for Faculty Development Programme on Machine Learning and Cybersecurity
+title: Invited Talk on 'Machine Learning Algorithms - Theory and Practice' for Faculty Development Programme on Machine Learning and Cybersecurity
 
 event: FDP
 
