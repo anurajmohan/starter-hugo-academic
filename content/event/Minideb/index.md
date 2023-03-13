@@ -1,5 +1,5 @@
 ---
-title: Coordinator of  'MiniDebConference' jointly organized by FOSS Cell, NSSCE and Debain India
+title: Coordinator of  'MiniDebConference' jointly organized by FOSS Cell, NSSCE and Debian India
 
 event: https://wiki.debian.org/DebianIndia/MiniDebConfPalakkad2022
 
