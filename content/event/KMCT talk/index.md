@@ -27,5 +27,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+links:
+
+url_pdf: '/event/KMCT/class.jpg'
+
 ---
 
