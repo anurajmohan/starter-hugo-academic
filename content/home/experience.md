@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Teaching - Both UG and PG
-        * Research - Approved Research Co-supervisor APJAKTU
+        * Research - Approved Research Supervisor APJAKTU
         * All Other Academic Activities
 design:
   columns: '2'
