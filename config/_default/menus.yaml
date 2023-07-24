@@ -26,7 +26,7 @@ main:
     url: '#contact'
     weight: 132
   - name: Literary Blog
-    url: '#contact'
+    url: 'https://anudhaara.blogspot.com/'
     weight: 149
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
