@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 
 date: "2023-11-23T00:00:00Z"
-doi: "10.1109/ICNGIS.2016.7854070"
+doi: "https://doi.org/10.1109/ICCCNT56998.2023.10306963"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-23T00:00:00Z"
