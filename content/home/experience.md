@@ -35,6 +35,19 @@ experience:
         * Teaching - Both UG and PG
         * Research - Approved Research Supervisor APJAKTU
         * All Other Academic Activities
+  - title: Assistant Professor
+    company: NSS College of Engineering
+    company_url: ''
+    company_logo: nss
+    location: Kerala, India
+    date_start: '2006-02-06'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching - Both UG and PG
+        * Research - Approved Research Supervisor APJAKTU
+        * All Other Academic Activities
 design:
   columns: '2'
 ---
