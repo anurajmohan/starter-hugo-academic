@@ -22,31 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor
+
+  - title: Associate Professor
     company: NSS College of Engineering
     company_url: ''
     company_logo: nss
     location: Kerala, India
-    date_start: '2006-02-06'
+    date_start: '2022-01-21'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Teaching - Both UG and PG
-        * Research - Approved Research Supervisor APJAKTU
         * All Other Academic Activities
+
+  - title: Research Supervisor APJAKTU
+    company: APJ Abdul Kalam Technological University
+    company_url: ''
+    company_logo: nss
+    location: Kerala, India
+    date_start: '2023-06-06'
+    date_end: ''
+    description: |2-
+        Responsibilities include Ph.D. Research Guidance of
+        
+        * 1 Full Time Scholar (With Doctoral Fellowship)
+        * 1 Part Time Scholar
+
   - title: Assistant Professor
     company: NSS College of Engineering
     company_url: ''
     company_logo: nss
     location: Kerala, India
     date_start: '2006-02-06'
-    date_end: ''
+    date_end: '2022-01-20'
     description: |2-
         Responsibilities include:
         
         * Teaching - Both UG and PG
-        * Research - Approved Research Supervisor APJAKTU
         * All Other Academic Activities
 design:
   columns: '2'
