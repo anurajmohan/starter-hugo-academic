@@ -1,7 +1,7 @@
 ---
 title: Coordinator and Resource Person for 'GPT Workshop' jointly organized by CSED, NSSCE and ISTE
 
-event: https://www.anurajmohan.in/GPT Workshop Poster.pdf
+event: https://www.anurajmohan.in/GPT_Workshop.pdf
 
 
 location: NSS college of Engineering
