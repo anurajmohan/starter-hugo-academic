@@ -1,5 +1,5 @@
 ---
-title: Coordinator and Resource Person for 'GPT Workshop' jointly organized by CSED, NSSCE and ISTE
+title: Coordinator and Resource Person for 'Workshop on Demystifying GPT' jointly organized by CSED, NSSCE and ISTE
 
 event: https://www.anurajmohan.in/GPTWorkshop.pdf
 
