@@ -1,12 +1,10 @@
 ---
-title: "Leveraging Deep Learning and Molecular Representation for Drug Discovery
-"
+title: "Leveraging Deep Learning and Molecular Representation for Drug Discovery"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 
 - Sonika Rajesh Pillai
 - Madhurya R Nair
 - Vyshakh G Nair
