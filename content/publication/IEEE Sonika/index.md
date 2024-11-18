@@ -13,7 +13,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2023-06-08T00:00:00Z"
+date: "2024-06-08T00:00:00Z"
 doi: "https://doi.org/10.1109/ICIC3S61846.2024.10603258"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-08T00:00:00Z"
