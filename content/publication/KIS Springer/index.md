@@ -15,7 +15,7 @@ date: "2025-06-28T00:00:00Z"
 doi: "https://doi.org/10.1007/s10115-025-02514-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-28T00:00:00Z"
+publishDate: "2025-06-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Knowledge and Information Systems(SCIE, IF 3.1), Springer*
-publication_short: In  *Knowledge and Information Systems(SCIE, IF 3.1), Springer.*
+publication_short: In  *Knowledge and Information Systems(SCIE, IF 3.1), Springer*
 
 summary: This work introduces a novel fusion learning framework that integrates both molecular graph structure information and molecular sequence contextual information of molecules to enhance molecular representation learning.
 
