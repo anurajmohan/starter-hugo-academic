@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Dr. Anuraj Mohan  serves as an Associate Professor in the Department of Computer Science & Engineering  at NSS College of Engineering, Palakkad. He has more than 18 years of experience in teaching with a prolific interest in research. He has published various articles in science citation indexed journals of reputed publishers and is a reviewer of many scientific journals. His broad areas of interest include machine learning, text and social network mining, and big data analytics.
+Dr. Anuraj Mohan  serves as an Associate Professor and Head in the Department of Computer Science & Engineering  at NSS College of Engineering, Palakkad. He has more than 19 years of experience in teaching with a prolific interest in research. He has published various articles in science citation indexed journals of reputed publishers and is a reviewer of many scientific journals. His broad areas of interest include machine learning, text and social network mining, and geometric deep learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "biodata.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
