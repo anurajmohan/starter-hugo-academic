@@ -26,7 +26,6 @@
                 <span>{{ . | markdownify }}</span>
               {{ end }}
 
-              {{/* Date (optional) */}}
               {{ if .date_start }}
                 {{ $df := $page.Params.date_format | default "Jan 2006" }}
                 <span class="middot-divider"></span>
@@ -42,4 +41,11 @@
               <a class="card-link" href="{{ .url }}" target="_blank" rel="noopener">
                 View
               </a>
+            {{ end }}
 
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
