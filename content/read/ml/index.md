@@ -1,5 +1,5 @@
 ---
-title: "A Self Learning Path for Machine Learning"
+title: "A Self-Learning Roadmap to Machine Learning"
 summary: "A structured beginner roadmap covering Math, Python, ML concepts, practice resources, and mini projects."
 projects: []
 date: "2026-02-18T00:00:00Z"
