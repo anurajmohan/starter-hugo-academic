@@ -1,6 +1,5 @@
 ---
 widget: blank
-headless: true
 weight: 28
 title: "Teaching"
 subtitle: ""
@@ -13,4 +12,5 @@ subtitle: ""
 - Advanced Machine Learning — KTU PG Class  
 - Database Management Systems — KTU UG Class  
 - Machine Learning Lab — KTU PG Lab  
+
 
