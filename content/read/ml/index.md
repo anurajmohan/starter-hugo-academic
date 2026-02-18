@@ -74,7 +74,7 @@ Before starting ML, students should be comfortable with the following topics.
 
 ---
 
-### 2) Python for Data Science (2–3 Weeks)
+### 2) Python for Data Science
 
 Students should become confident in using Python for data handling and visualization.
 
@@ -99,7 +99,7 @@ Students should become confident in using Python for data handling and visualiza
 
 ---
 
-## Phase 2: Machine Learning Concepts + Practice (4–6 Weeks)
+## Phase 2: Machine Learning Concepts + Practice 
 
 ### 1) ML Core Concepts
 
