@@ -10,7 +10,7 @@
   </div>
 
   <div class="col-12 col-lg-8">
-    {{ with $block.Params.item }}
+    {{ with $block.Params.accomplishments }}
       {{ range . }}
         <div class="card experience course">
           <div class="card-body">
@@ -24,7 +24,6 @@
                 <span>{{ . | markdownify }}</span>
               {{ end }}
 
-              {{/* Date (optional) */}}
               {{ if .date_start }}
                 {{ $df := $page.Params.date_format | default "Jan 2006" }}
                 <span class="middot-divider"></span>
