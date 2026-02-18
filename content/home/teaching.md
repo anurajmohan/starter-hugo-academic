@@ -6,7 +6,7 @@ title: "Teaching"
 subtitle: ""
 ---
 
-<div style="background:#ffffff; padding:22px; border:1px solid #e5e5e5; border-radius:13px; box-shadow: 0 6px 18px rgba(0,0,0,0.08); font-size:13px; line-height:1.6;">
+<div style="background:#ffffff; padding:22px; border:1px solid #e5e5e5; border-radius:13px; box-shadow: 0 6px 18px rgba(0,0,0,0.08); font-size:14px; line-height:1.6;">
 
 
 
