@@ -6,7 +6,7 @@ weight: 28
 title: "Teaching"
 subtitle: ""
 
-item:
+accomplishments:
   - title: "Concepts in Machine Learning"
     organization: "KTU UG Class"
     url: ""
