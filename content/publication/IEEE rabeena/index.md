@@ -1,5 +1,5 @@
 ---
-title: "ASDEXPLAINER : An Interpretable Graph Neural Network Framework for Brain Network Based Autism Spectrum Disorder Analysis
+title: "Enhanced Multimodal Retrieval Augmented Generation for Cultural Heritage Preservation
 "
 
 # Authors
@@ -7,19 +7,16 @@ title: "ASDEXPLAINER : An Interpretable Graph Neural Network Framework for Brain
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - 
-- Gayathri Sivakumar Menon
-- Poornima J
-- Aneena T Sojan
-- Mridhula P J
+- Rabeena T M
 - Anuraj Mohan
 
 # Author notes (optional)
 
-date: "2023-11-23T00:00:00Z"
-doi: "https://doi.org/10.1109/ICCCNT56998.2023.10306963"
+date: "2025-08-21T00:00:00Z"
+doi: "https://doi.org/10.1109/INDISCON66021.2025.11252350"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-23T00:00:00Z"
+publishDate: "2025-08-21T00:00:00Z"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -28,8 +25,8 @@ publishDate: "2023-11-23T00:00:00Z"
 publication_types: ["1"]
 
 #Publication name and optional abbreviated publication name.
-publication: In *14th International Conference on Computing Communication and Networking Technologies (ICCCNT) held at IIT Delhi*
-publication_short: In *IEEE proceedings of ICCCNT held at IIT Delhi*
+publication: In *2025 IEEE 6th India Council International Subsections Conference (INDISCON)*
+publication_short: In *IEEE proceedings of INDISCON held at NIT Rourkela*
 
 tags: []
 
