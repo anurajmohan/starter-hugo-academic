@@ -1,83 +1,39 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 28
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching'
-subtitle:
+title: "Teaching"
+subtitle: ""
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  date_start: "2024-08-15"
- # description: ""
-  organization: KTU UG Class
- # organization_url: https://www.coursera.org
-  title: Concepts in Machine Learning
-  url: ""
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  #date_start: "2025-01-01"
- # description: ""
-  organization: KTU UG Class
- # organization_url: https://www.coursera.org
-  title: Data Analytics
-  url: "" 
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
- # date_start: "2024-08-05"
- # description: ""
-  organization: KTU PG Class
- # organization_url: https://www.coursera.org
-  title: Advanced Machine Learning
-  url: ""
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  #date_start: "2025-01-01"
- # description: ""
-  organization: KTU UG Class
- # organization_url: https://www.coursera.org
-  title: Database Management Systems
-  url: ""
-- 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  #date_start: "2024-08-01"
- # description: ""
-  organization: KTU PG Lab
- # organization_url: https://www.coursera.org
-  title: Machine Learning Lab
-  url: ""
+  - title: "Concepts in Machine Learning"
+    organization: "KTU UG Class"
+    date_start: "2024-08-15"
+    url: ""
 
-#certificate_url: https://www.coursera.org
- # date_end: ""
-  #date_start: "2025-01-01"
- # description: ""
- # organization: KTU UG Lab
- # organization_url: https://www.coursera.org
- # title: B.Tech Major Project
- # url: ""
+  - title: "Data Analytics"
+    organization: "KTU UG Class"
+    date_start: ""
+    url: ""
+
+  - title: "Advanced Machine Learning"
+    organization: "KTU PG Class"
+    date_start: ""
+    url: ""
+
+  - title: "Database Management Systems"
+    organization: "KTU UG Class"
+    date_start: ""
+    url: ""
+
+  - title: "Machine Learning Lab"
+    organization: "KTU PG Lab"
+    date_start: ""
+    url: ""
 
 design:
-  columns: '2' 
+  columns: "2"
 ---
