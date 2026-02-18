@@ -1,5 +1,5 @@
 ---
-widget: markdown
+widget: blank
 headless: true
 weight: 28
 title: "Teaching"
