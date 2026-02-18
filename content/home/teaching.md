@@ -2,11 +2,10 @@
 widget: accomplishments
 headless: true
 weight: 28
-
 title: "Teaching"
 subtitle: ""
 
-accomplishments:
+item:
   - title: "Concepts in Machine Learning"
     organization: "KTU UG Class"
     url: ""
