@@ -1,0 +1,50 @@
+{{/* Wowchemy: Accomplishments widget (patched so date_start is OPTIONAL) */}}
+
+{{ $page := .page }}
+{{ $block := .block }}
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $block.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $block.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+
+  <div class="col-12 col-lg-8">
+    {{ with $block.Params.item }}
+      {{ range . }}
+        <div class="card experience course">
+          <div class="card-body">
+
+            <h4 class="card-title exp-title text-muted my-0">
+              {{ .title | markdownify }}
+            </h4>
+
+            <div class="card-subtitle my-0 article-metadata">
+              {{ with .organization }}
+                <span>{{ . | markdownify }}</span>
+              {{ end }}
+
+              {{/* Date (optional) */}}
+              {{ if .date_start }}
+                {{ $df := $page.Params.date_format | default "Jan 2006" }}
+                <span class="middot-divider"></span>
+                <span>{{ .date_start.Format $df }}</span>
+              {{ end }}
+            </div>
+
+            {{ with .description }}
+              <div class="card-text">{{ . | markdownify }}</div>
+            {{ end }}
+
+            {{ if .url }}
+              <a class="card-link" href="{{ .url }}" target="_blank" rel="noopener">
+                View
+              </a>
+            {{ end }}
+
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
