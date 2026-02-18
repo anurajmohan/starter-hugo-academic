@@ -35,7 +35,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2025-01-01"
+  #date_start: "2025-01-01"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
@@ -44,7 +44,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2024-08-05"
+ # date_start: "2024-08-05"
  # description: ""
   organization: KTU PG Class
  # organization_url: https://www.coursera.org
@@ -53,7 +53,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2025-01-01"
+  #date_start: "2025-01-01"
  # description: ""
   organization: KTU UG Class
  # organization_url: https://www.coursera.org
@@ -62,7 +62,7 @@ item:
 - 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-  date_start: "2024-08-01"
+  #date_start: "2024-08-01"
  # description: ""
   organization: KTU PG Lab
  # organization_url: https://www.coursera.org
@@ -71,7 +71,7 @@ item:
 
 #certificate_url: https://www.coursera.org
  # date_end: ""
-#  date_start: "2025-01-01"
+  #date_start: "2025-01-01"
  # description: ""
  # organization: KTU UG Lab
  # organization_url: https://www.coursera.org
