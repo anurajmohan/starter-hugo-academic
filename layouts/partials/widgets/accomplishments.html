@@ -1,7 +1,9 @@
+{{/* Wowchemy: Accomplishments widget (patched so date_start is OPTIONAL + supports both accomplishments/item) */}}
+
 {{ $page := .page }}
 {{ $block := .block }}
 
-{{ $list := $block.Params.item | default $block.Params.accomplishments }}
+{{ $list := $block.Params.accomplishments | default $block.Params.item }}
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
@@ -24,6 +26,7 @@
                 <span>{{ . | markdownify }}</span>
               {{ end }}
 
+              {{/* Date (optional) */}}
               {{ if .date_start }}
                 {{ $df := $page.Params.date_format | default "Jan 2006" }}
                 <span class="middot-divider"></span>
@@ -39,12 +42,4 @@
               <a class="card-link" href="{{ .url }}" target="_blank" rel="noopener">
                 View
               </a>
-            {{ end }}
-
-          </div>
-        </div>
-      {{ end }}
-    {{ end }}
-  </div>
-</div>
 
