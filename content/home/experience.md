@@ -47,7 +47,7 @@ experience:
         Responsibilities include Ph.D. Research Guidance of
         
         * 1 Full Time Scholar (With Doctoral Fellowship)
-        * 2 Part Time Scholar
+        * 2 Part Time Scholars
 
   - title: Assistant Professor
     company: NSS College of Engineering
