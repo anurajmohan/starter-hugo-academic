@@ -1,6 +1,6 @@
 ---
 title: "A Deep Learning Student Roadmap"
-summary: "A structured roadmap for UG students to master Neural Networks, CNNs, RNNs, and Transformers using PyTorch."
+summary: "A structured roadmap for  students to master Neural Networks, CNNs, RNNs, and Transformers using PyTorch."
 date: 2026-02-24
 type: page
 ---
@@ -11,7 +11,7 @@ This roadmap is designed for undergraduate students transitioning from Machine L
 
 ---
 
-## 🔵 Phase 1: Deep Learning Foundations (4–6 Weeks)
+## 🔵 Phase 1: Deep Learning Foundations 
 
 ### 1️⃣ Neural Network Fundamentals
 
@@ -78,7 +78,7 @@ This roadmap is designed for undergraduate students transitioning from Machine L
 
 ---
 
-## 3️⃣ PyTorch Basics (2–3 Weeks)
+## 3️⃣ PyTorch Basics 
 
 Students must learn:
 
@@ -102,7 +102,7 @@ Students must learn:
 
 ---
 
-# 🔵 Phase 2: Core Deep Learning Architectures (6–8 Weeks)
+# 🔵 Phase 2: Core Deep Learning Architectures 
 
 ---
 
