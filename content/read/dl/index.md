@@ -276,6 +276,6 @@ After completing this roadmap, students will be able to:
 - Understand and implement Transformers  
 - Fine-tune pretrained models  
 - Write structured DL project reports  
-- Apply Deep Learning in internships and M.Tech projects  
+- Apply Deep Learning in internships and  projects  
 
 ---
