@@ -1,11 +1,11 @@
 ---
-title: "Deep Learning Student Roadmap"
+title: "A Deep Learning Student Roadmap"
 summary: "A structured roadmap for UG students to master Neural Networks, CNNs, RNNs, and Transformers using PyTorch."
 date: 2026-02-24
 type: page
 ---
 
-# 🚀 Deep Learning Student Roadmap
+# 🚀A Deep Learning Student Roadmap
 
 This roadmap is designed for undergraduate students transitioning from Machine Learning to Deep Learning. It covers Neural Networks, CNNs, RNNs, LSTMs, and Transformers using PyTorch.
 
