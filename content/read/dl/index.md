@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "A Deep Learning Student Roadmap"
 summary: "A structured roadmap for students to master Neural Networks, CNNs, RNNs, and Transformers using PyTorch."
 projects: []
@@ -10,16 +11,41 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+=======
+title: "A Self-Learning Roadmap to Machine Learning"
+summary: "A structured beginner roadmap covering Math, Python, ML concepts, practice resources, and mini projects."
+projects: []
+date: "2026-02-18T00:00:00Z"
+lastmod: "2026-02-18T00:00:00Z"
+draft: false
+featured: false
+
+image:
+  # Place an image named `featured.jpg/png` inside this page folder
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+>>>>>>> parent of 41c0d14 (Update index.md)
 authors:
   - admin
 ---
 
+<<<<<<< HEAD
 ## 🚀 A Deep Learning Student Roadmap
+=======
+## 📌 Overview
+>>>>>>> parent of 41c0d14 (Update index.md)
 
-This roadmap is designed for undergraduate students transitioning from Machine Learning to Deep Learning. It covers Neural Networks, CNNs, RNNs, LSTMs, and Transformers using PyTorch.
+This roadmap is designed for students starting Machine Learning from scratch.  
+It is split into two phases:
+
+- **Phase 1:** Foundations (Math + Python)
+- **Phase 2:** ML Concepts + Practice + Mini Projects
 
 ---
 
+<<<<<<< HEAD
 # 🔵 Phase 1: Deep Learning Foundations
 
 ## 1️⃣ Neural Network Fundamentals
@@ -95,11 +121,74 @@ Students must learn:
 ---
 
 # 🔵 Phase 2: Core Deep Learning Architectures
+=======
+## Phase 1: Machine Learning Foundations
+
+### 1) Math for Machine Learning
+
+Before starting ML, students should be comfortable with the following topics.
 
 ---
 
-## 📘 Feed-Forward Neural Networks (FNN / MLP)
+#### ✅ Topics to Learn
 
+**Linear Algebra**
+- Vectors, matrices  
+- Eigenvalues, eigenvectors  
+
+**Calculus & Gradients**
+- Derivatives  
+- Chain rule  
+- Gradients  
+
+**Probability & Statistics**
+- Distributions  
+- Expectation  
+- Mean, variance  
+
+---
+
+#### ⭐ Best Resources
+
+**Linear Algebra**
+- [3Blue1Brown Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=ecPHeuQnKV83hPlc)
+
+**Calculus**
+- [3Blue1Brown Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=gPBc9ST2Ha5CJSiE)
+
+**Probability and Statistics**
+- [StatQuest Playlist](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&si=xZdAjuw9JXCSSk6y)
+
+---
+
+#### 🎓 Courses (Optional but Recommended)
+
+- [Coursera: Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)  
+- [Scaler: Math for ML (Free)](https://www.scaler.com/topics/course/mathematics-for-machine-learning-free-course/)  
+- [LinkedIn Learning Path](https://www.linkedin.com/learning/paths/foundational-math-for-machine-learning)  
+
+---
+
+### 2) Python for Data Science
+
+Students should become confident in using Python for data handling and visualization.
+
+---
+
+#### ✅ Skills Students Must Learn
+
+- NumPy — numerical computing  
+- Pandas — data manipulation  
+- Matplotlib / Seaborn — visualization  
+- scikit-learn — ML models (after ML basics)  
+- PyTorch — deep learning (after DL basics)  
+>>>>>>> parent of 41c0d14 (Update index.md)
+
+---
+
+#### ⭐ Resources
+
+<<<<<<< HEAD
 ### Topics
 1. Multi-layer neural networks  
 2. Activation functions  
@@ -110,56 +199,65 @@ Students must learn:
 ### Recommended Resources
 - [Neural Networks & Deep Learning (Coursera)](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Dive into Deep Learning (Free Book with PyTorch Code)](https://d2l.ai/)
+=======
+- [Data Analysis with Python (YouTube Course)](https://youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&si=ynhbspg4N5SuSG6b9JXCSSk6y)  
+- [NumPy + Pandas + Matplotlib GitHub](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial)  
+- [Kaggle Python](https://www.kaggle.com/learn/python)  
+- [Probability and Statistics Notebook](https://github.com/Probability-Statistics-Jupyter-Notebook/probability-statistics-notebook)  
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 ---
 
-## 📘 Convolutional Neural Networks (CNN)
+## Phase 2: Machine Learning Concepts + Practice 
 
-### Topics
-1. Convolution operation  
-2. Filters and Feature maps  
-3. Stride and Padding  
-4. Pooling layers  
-5. CNN architectures  
-6. Training CNN in PyTorch  
+### 1) ML Core Concepts
 
+<<<<<<< HEAD
 ### Recommended Resources
 - [Convolutional Neural Networks (Coursera)](https://www.coursera.org/learn/convolutional-neural-networks)
 - [Dive into Deep Learning – CNN Chapter](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
 - [PyTorch CIFAR-10 Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 - [MNIST CNN Tutorial (DataCamp)](https://www.datacamp.com/tutorial/pytorch-cnn-tutorial)
+=======
+Students should clearly understand:
+
+- Features (X) and Target (y)  
+- Train vs Test split  
+- Overfitting vs Underfitting  
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 ---
 
-## 📘 Recurrent Neural Networks (RNN, LSTM, GRU)
+### 2) Models to Learn (Beginner Level)
 
-### Topics
-1. Sequential data  
-2. Vanishing gradient problem  
-3. Basic RNN  
-4. LSTM  
-5. GRU  
-6. Next-word prediction  
+Start with these 3 models:
 
+<<<<<<< HEAD
 ### Recommended Resources
 - [Sequence Models (Coursera)](https://www.coursera.org/learn/nlp-sequence-models)
 - [Dive into Deep Learning – RNN Chapter](https://d2l.ai/chapter_recurrent-neural-networks/index.html)
 - [PyTorch NLP Tutorial](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
 - [Next Word Prediction using LSTM](https://medium.com/@abhishekjainindore24/session-14-next-word-predictor-using-lstm-in-pytorch-bddd2068a909)
+=======
+- Linear Regression  
+- Logistic Regression  
+- Decision Trees  
+
+Also learn the basics of:
+
+**Representation → Loss Function → Optimization**
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 ---
 
-## 📘 Transformers
+### 3) Evaluation Metrics
 
-### Topics
-1. Attention mechanism  
-2. Self-attention  
-3. Scaled dot-product attention  
-4. Multi-head attention  
-5. Positional encoding  
-6. Encoder–Decoder architecture  
-7. Fine-tuning pretrained models  
+#### Regression Metrics
+- MAE  
+- MSE  
+- RMSE  
 
+<<<<<<< HEAD
 ### Recommended Resources
 - [Attention Is All You Need (Original Paper)](https://arxiv.org/abs/1706.03762)
 - [Dive into Deep Learning – Attention Mechanisms Chapter](https://d2l.ai/chapter_attention-mechanisms/index.html)
@@ -167,55 +265,123 @@ Students must learn:
 - [Transformers Explained – Visual Guide 2](https://blog.londogard.com/posts/2021-02-18-transformers-explained/transformers-explained.html)
 - [Transformers Explained – Visual Guide 3](https://medium.com/data-science/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 - [Transformers for Machine Translation](https://www.geeksforgeeks.org/nlp/machine-translation-with-transformer-in-python/)
+=======
+#### Classification Metrics
+- Accuracy  
+- Confusion Matrix  
+- Precision, Recall, F1-score  
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 ---
 
-# 🔵 Phase 3: Mini Projects (Choose Any 2)
+## 📚 Resources for Phase 2
+
+### Theory Resources
+
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)  
+- [StatQuest](https://statquest.org/)  
+- [Machine Learning Mastery](https://machinelearningmastery.com/)  
+- [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)  
 
 ---
 
-## 🔹 Option A: Image Classification (CNN)
+### Hands-on Resources
 
+<<<<<<< HEAD
 Dataset: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+=======
+- [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)  
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)  
+- [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners)  
+- [YouTube ML Playlist](https://youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&si=UcZQGrRt7LJKirts)  
+
+---
+
+## 🧪 Mini Projects (Choose Any 2)
+
+Students must complete **any 2 projects** from the list below.
+
+---
+
+### Option A: House Price Prediction (Regression)
+
+Dataset:  
+- [House Prices Kaggle Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 Deliverables:
-- Data preprocessing  
-- CNN architecture  
-- Training curves  
-- Accuracy  
-- Confusion matrix  
+- Preprocessing  
+- Model training  
+- RMSE evaluation  
 - Conclusion  
 
 ---
 
-## 🔹 Option B: Sentiment Analysis (RNN / LSTM)
+### Option B: Titanic Survival Prediction (Classification)
 
+<<<<<<< HEAD
 Dataset: [IMDB Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+=======
+Dataset:  
+- [Titanic Kaggle Dataset](https://www.kaggle.com/c/titanic)
+>>>>>>> parent of 41c0d14 (Update index.md)
 
 Deliverables:
-- Text preprocessing  
-- Tokenization  
-- LSTM model  
+- Encoding + preprocessing  
+- Model training  
+- Confusion matrix  
+- Precision/Recall  
+
+---
+
+### Option C: Student Performance Prediction
+
+Dataset:  
+- [Students Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
+Deliverables:
+- EDA  
+- Correlation analysis  
+- Model training  
+- Evaluation  
+
+---
+
+### Option D: Diabetes Prediction
+
+Dataset:  
+- [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+Deliverables:
+- Classification model  
 - F1-score evaluation  
-- Error analysis  
+- Conclusion  
 
 ---
 
-## 🔹 Option C: Text Summarization (Transformer)
+## 📦 Final Submission Format (Phase 1 + Phase 2)
 
+<<<<<<< HEAD
 Dataset: [CNN/DailyMail](https://github.com/abisee/cnn-dailymail)
+=======
+Students must submit **one notebook/report** containing:
+>>>>>>> parent of 41c0d14 (Update index.md)
 
-Deliverables:
-- Fine-tuning pretrained model  
-- ROUGE evaluation  
-- Generated samples  
+- Dataset loading  
+- Data cleaning + missing value handling  
+- Exploratory Data Analysis (EDA) + plots  
+- Feature engineering (basic)  
+- Model training  
+- Evaluation metrics  
+- Final conclusion (5–10 lines)  
 
 ---
 
-# 📂 Final Submission Format
+## ✅ Outcome
 
-Students must submit one well-structured notebook/report including:
+By the end of Phase 1 and Phase 2, students will be able to:
 
+<<<<<<< HEAD
 1. Problem Statement  
 2. Dataset Description  
 3. Data Preprocessing  
@@ -239,3 +405,12 @@ After completing this roadmap, students will be able to:
 - Fine-tune pretrained models  
 - Write structured DL project reports  
 - Apply Deep Learning in internships and projects  
+=======
+- Understand ML fundamentals clearly  
+- Build beginner ML models using scikit-learn  
+- Evaluate models properly  
+- Complete 2 end-to-end mini projects  
+- Write a clean ML notebook/report for submission  
+
+---
+>>>>>>> parent of 41c0d14 (Update index.md)
