@@ -16,7 +16,6 @@ authors:
   - admin
 ---
 
-#  A Deep Learning Student Roadmap
 
 This roadmap is designed for undergraduate students transitioning from Machine Learning to Deep Learning. It covers Neural Networks, CNNs, RNNs, LSTMs, and Transformers using PyTorch.
 
