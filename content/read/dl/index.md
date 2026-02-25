@@ -1,5 +1,5 @@
 ---
-title: "A Deep Learning Student Roadmap"
+title: "A Self-Learning Roadmap to Deep Learning"
 summary: "A structured roadmap for students to master Neural Networks, CNNs, RNNs, and Transformers using PyTorch."
 projects: []
 date: "2026-02-18T00:00:00Z"
@@ -16,7 +16,7 @@ authors:
   - admin
 ---
 
-# 🚀 A Deep Learning Student Roadmap
+#  A Deep Learning Student Roadmap
 
 This roadmap is designed for undergraduate students transitioning from Machine Learning to Deep Learning. It covers Neural Networks, CNNs, RNNs, LSTMs, and Transformers using PyTorch.
 
