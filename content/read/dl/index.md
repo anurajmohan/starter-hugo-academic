@@ -171,6 +171,7 @@ Students must learn:
 - [Transformers Explained (Visual Guide 2)](https://blog.londogard.com/posts/2021-02-18-transformers-explained/transformers-explained.html)  
 - [Transformers Explained (Visual Guide 3)](https://medium.com/data-science/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)  
 - [Transformers for Machine Translation](https://www.geeksforgeeks.org/nlp/machine-translation-with-transformer-in-python/)
+- [My Lecture Slides on Transformer](https://drive.google.com/file/d/1iftb63orgDV9Lmi_SOSqBjRM79cLn7wp/view?usp=sharing)
 
 ---
 
