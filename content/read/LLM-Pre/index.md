@@ -1,19 +1,21 @@
 ---
 title: "NLP → Transformers: Prerequisite Learning Path"
 summary: "A beginner-friendly roadmap to quickly understand Natural Language Processing fundamentals before learning Transformers and Large Language Models."
-date: 2026-03-07
-lastmod: 2026-03-07
+projects: []
+date: "2026-03-07T00:00:00Z"
+lastmod: "2026-03-07T00:00:00Z"
 draft: false
-type: docs
-tags:
-  - NLP
-  - Transformers
-  - LLM
-  - Generative AI
-  - Deep Learning
-categories:
-  - Learning Roadmap
+featured: false
+
+image:
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+  - admin
 ---
+
 
 ## NLP → Transformers: Prerequisite Learning Path
 
