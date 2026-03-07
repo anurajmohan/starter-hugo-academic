@@ -21,7 +21,7 @@ authors:
 
 Before learning **Large Language Models (LLMs)** such as **GPT, BERT, Gemini, or Claude**, it is important to understand some foundational concepts in **Natural Language Processing (NLP)** and **Deep Learning**.
 
-This roadmap provides a ** quick step-by-step learning path** from basic NLP concepts to **Transformers**, which are the backbone of modern LLMs.
+This roadmap provides a **quick step-by-step learning path** from basic NLP concepts to **Transformers** , which are the backbone of modern LLMs.
 
 ---
 
@@ -38,8 +38,7 @@ Understand what **Natural Language Processing (NLP)** is and why it is important
 - Stemming and Lemmatization
 
 ### Learning Resource
-- [Natural Language Processing In 5 Minutes | What Is NLP And How Does It Work?] 
-  (https://youtu.be/CMrHM8a3hqw?si=9HqK18KYFYLCyBDp)
+- [Natural Language Processing In 5 Minutes | What Is NLP And How Does It Work?](https://youtu.be/CMrHM8a3hqw?si=9HqK18KYFYLCyBDp)
 
 ---
 
@@ -54,8 +53,7 @@ Words must be converted into **numerical vectors**.
 - Word Embeddings
 
 ### Learning Resource
-- [What are Word Embeddings?]  
-  (https://youtu.be/wgfSDrqYMJ4?si=vWtJwBxkmqKKcpMq)
+- [What are Word Embeddings?](https://youtu.be/wgfSDrqYMJ4?si=vWtJwBxkmqKKcpMq)
 
 ---
 
@@ -71,8 +69,7 @@ Deep learning models are widely used for NLP tasks.
 - Neural networks for text processing
 
 ### Learning Resource
-- [Neural Network In 5 Minutes | What Is A Neural Network?]  
-  (https://youtu.be/bfmFfD2RIcg?si=CmpB0hfWh7emJJtM)
+- [Neural Network In 5 Minutes | What Is A Neural Network?](https://youtu.be/bfmFfD2RIcg?si=CmpB0hfWh7emJJtM)
 
 ---
 
@@ -87,8 +84,7 @@ Text is sequential in nature, so models must understand **context and order of w
 - Sequence modeling
 
 ### Learning Resource
-- [Illustrated Guide to Recurrent Neural Networks]  
-  (https://youtu.be/LHXXI4-IEns?si=IiUFY9F5uMYyCptP)
+- [Illustrated Guide to Recurrent Neural Networks] (https://youtu.be/LHXXI4-IEns?si=IiUFY9F5uMYyCptP)
 
 ---
 
@@ -106,8 +102,7 @@ They overcome the limitations of RNNs and allow models to process sequences **in
 - Positional encoding
 
 ### Learning Resource
-- [What are Transformers (Machine Learning Model)?] 
-  (https://youtu.be/ZXiruGOCn9s?si=tk_lmrSi3iX1g2iB)
+- [What are Transformers (Machine Learning Model)?](https://youtu.be/ZXiruGOCn9s?si=tk_lmrSi3iX1g2iB)
 
 ---
 
